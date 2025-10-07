@@ -62,6 +62,7 @@ notes.txt
 private/
 personal/
 
-# Demo/test configurations
+# Demo/test configurations (specific files only)
 demo_setup.py
 verify_setup.py
+SETUP_COMPLETE.md
