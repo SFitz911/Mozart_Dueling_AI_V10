@@ -1,5 +1,9 @@
 # Mozart AI V10 - Quick Start Guide
 
+## 🧪 Try It Instantly!
+
+**Want to see Mozart AI in action right now?** Open `TEST_ERRORS.md` and copy any code snippet to test the dual AI system immediately!
+
 ## Initial Setup (3 minutes)
 
 1. **Get API Keys**:
@@ -59,11 +63,19 @@
 
 Once Mozart AI is running:
 
-1. **Goal**: "Review this function for bugs"
+**🎯 First Time Testing:**
+- Open `TEST_ERRORS.md` and copy any error example
+- Perfect for seeing how dual AI review works!
+
+**🔄 For Your Own Code:**
+1. **Goal**: "Review this function for bugs" 
 2. **Context**: "Python function for user authentication"  
 3. **Paste Code**: [your code here] or click "Load Text File"
 4. **Criteria**: Keep all checkboxes selected (or pick specific areas)
 5. **Mode**: Fast (quick) or Full (comprehensive)
+6. **Click**: "Start Review"
+
+**💡 Pro Tip**: Try the same code with different goals/context to see how AI responses change!
 6. **Click**: "Start Review"
 
 ## Launch Method Details

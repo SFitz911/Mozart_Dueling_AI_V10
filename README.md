@@ -15,6 +15,14 @@ cd Mozart_Dueling_AI_V10
 python setup.py
 ```
 
+## 🧪 Want to Test It Right Away?
+
+**Check out `TEST_ERRORS.md`** - it contains real coding errors you can copy and paste to see Mozart AI in action! Perfect for:
+- Testing the dual AI system
+- Learning from common coding mistakes
+- Breaking out of AI error loops with Cursor, Claude, etc.
+- Seeing how multiple AI perspectives solve problems differently
+
 ## 🎯 What Does This Do?
 
 Mozart AI is like having two expert programmers review your code at the same time! It uses two different AI systems (OpenAI's GPT-4 and DeepSeek) to:

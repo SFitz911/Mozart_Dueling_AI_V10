@@ -2,6 +2,10 @@
 
 **Don't worry if you're not tech-savvy! This guide will walk you through everything step by step.**
 
+## 🧪 Want to Test Before Full Setup?
+
+**Quick Test**: Open `TEST_ERRORS.md` in this folder - it has ready-to-copy code examples that show Mozart AI in action! Perfect for understanding what the app does before setting it up.
+
 ## 🎯 What is Setup and Why Do I Need It?
 
 **Setup** is like installing Mozart AI on your computer so it can work properly. Think of it like setting up a new phone - you need to:
@@ -14,12 +18,6 @@
 - Downloads and installs missing parts automatically
 - Creates a configuration file with your AI service passwords
 - Makes easy-to-use shortcuts to start Mozart AI
-
-**What does `verify_setup.py` do?**
-- Acts like a "health check" for Mozart AI
-- Tells you exactly what's working and what's not
-- Helps you figure out what's wrong if something breaks
-- Think of it like a diagnostic tool at a doctor's office
 
 ## 🚀 Step-by-Step Setup (Super Detailed!)
 
